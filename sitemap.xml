@@ -1,171 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://easystats.github.io/datawizard/404.html</loc>
   </url>
   <url>
-    <loc>/CODE_OF_CONDUCT.html</loc>
+    <loc>https://easystats.github.io/datawizard/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>/CONTRIBUTING.html</loc>
+    <loc>https://easystats.github.io/datawizard/CONTRIBUTING.html</loc>
   </url>
   <url>
-    <loc>/articles/index.html</loc>
+    <loc>https://easystats.github.io/datawizard/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>/articles/standardize_data.html</loc>
+    <loc>https://easystats.github.io/datawizard/articles/index.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://easystats.github.io/datawizard/articles/standardize_data.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://easystats.github.io/datawizard/articles/tidyverse_translation.html</loc>
   </url>
   <url>
-    <loc>/news/index.html</loc>
+    <loc>https://easystats.github.io/datawizard/authors.html</loc>
   </url>
   <url>
-    <loc>/reference/adjust.html</loc>
+    <loc>https://easystats.github.io/datawizard/index.html</loc>
   </url>
   <url>
-    <loc>/reference/center.html</loc>
+    <loc>https://easystats.github.io/datawizard/news/index.html</loc>
   </url>
   <url>
-    <loc>/reference/colnames.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/adjust.html</loc>
   </url>
   <url>
-    <loc>/reference/convert_na_to.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/categorize.html</loc>
   </url>
   <url>
-    <loc>/reference/convert_to_na.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/center.html</loc>
   </url>
   <url>
-    <loc>/reference/data_cut.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/change_code.html</loc>
   </url>
   <url>
-    <loc>/reference/data_extract.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/coerce_to_numeric.html</loc>
   </url>
   <url>
-    <loc>/reference/data_group.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/colnames.html</loc>
   </url>
   <url>
-    <loc>/reference/data_match.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/convert_na_to.html</loc>
   </url>
   <url>
-    <loc>/reference/data_merge.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/convert_to_na.html</loc>
   </url>
   <url>
-    <loc>/reference/data_partition.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_extract.html</loc>
   </url>
   <url>
-    <loc>/reference/data_read.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_group.html</loc>
   </url>
   <url>
-    <loc>/reference/data_recode.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_match.html</loc>
   </url>
   <url>
-    <loc>/reference/data_relocate.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_merge.html</loc>
   </url>
   <url>
-    <loc>/reference/data_rename.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_partition.html</loc>
   </url>
   <url>
-    <loc>/reference/data_rescale.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_read.html</loc>
   </url>
   <url>
-    <loc>/reference/data_restoretype.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_relocate.html</loc>
   </url>
   <url>
-    <loc>/reference/data_reverse.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_rename.html</loc>
   </url>
   <url>
-    <loc>/reference/data_rotate.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_restoretype.html</loc>
   </url>
   <url>
-    <loc>/reference/data_shift.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_rotate.html</loc>
   </url>
   <url>
-    <loc>/reference/data_tabulate.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_tabulate.html</loc>
   </url>
   <url>
-    <loc>/reference/data_to_factor.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_to_long.html</loc>
   </url>
   <url>
-    <loc>/reference/data_to_long.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/data_to_wide.html</loc>
   </url>
   <url>
-    <loc>/reference/data_to_numeric.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/demean.html</loc>
   </url>
   <url>
-    <loc>/reference/demean.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/describe_distribution.html</loc>
   </url>
   <url>
-    <loc>/reference/describe_distribution.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/distribution_mode.html</loc>
   </url>
   <url>
-    <loc>/reference/distribution_mode.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/dot-is_deprecated.html</loc>
   </url>
   <url>
-    <loc>/reference/efc.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/efc.html</loc>
   </url>
   <url>
-    <loc>/reference/find_columns.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/find_columns.html</loc>
   </url>
   <url>
-    <loc>/reference/format_text.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/format_text.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/nhanes_sample.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/nhanes_sample.html</loc>
   </url>
   <url>
-    <loc>/reference/normalize.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/normalize.html</loc>
   </url>
   <url>
-    <loc>/reference/ranktransform.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/ranktransform.html</loc>
   </url>
   <url>
-    <loc>/reference/reexports.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/reexports.html</loc>
   </url>
   <url>
-    <loc>/reference/remove_empty.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/remove_empty.html</loc>
   </url>
   <url>
-    <loc>/reference/replace_nan_inf.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/replace_nan_inf.html</loc>
   </url>
   <url>
-    <loc>/reference/rescale_weights.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/rescale.html</loc>
   </url>
   <url>
-    <loc>/reference/reshape_ci.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/rescale_weights.html</loc>
   </url>
   <url>
-    <loc>/reference/rownames.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/reshape_ci.html</loc>
   </url>
   <url>
-    <loc>/reference/skewness.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/reverse.html</loc>
   </url>
   <url>
-    <loc>/reference/smoothness.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/rownames.html</loc>
   </url>
   <url>
-    <loc>/reference/standardize.default.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/skewness.html</loc>
   </url>
   <url>
-    <loc>/reference/standardize.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/slide.html</loc>
   </url>
   <url>
-    <loc>/reference/to_numeric.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/smoothness.html</loc>
   </url>
   <url>
-    <loc>/reference/visualisation_recipe.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/standardize.default.html</loc>
   </url>
   <url>
-    <loc>/reference/weighted_mean.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/standardize.html</loc>
   </url>
   <url>
-    <loc>/reference/winsorize.html</loc>
+    <loc>https://easystats.github.io/datawizard/reference/to_factor.html</loc>
+  </url>
+  <url>
+    <loc>https://easystats.github.io/datawizard/reference/to_numeric.html</loc>
+  </url>
+  <url>
+    <loc>https://easystats.github.io/datawizard/reference/visualisation_recipe.html</loc>
+  </url>
+  <url>
+    <loc>https://easystats.github.io/datawizard/reference/weighted_mean.html</loc>
+  </url>
+  <url>
+    <loc>https://easystats.github.io/datawizard/reference/winsorize.html</loc>
   </url>
 </urlset>
