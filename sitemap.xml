@@ -19,6 +19,9 @@
     <loc>https://easystats.github.io/datawizard/articles/index.html</loc>
   </url>
   <url>
+    <loc>https://easystats.github.io/datawizard/articles/selection_syntax.html</loc>
+  </url>
+  <url>
     <loc>https://easystats.github.io/datawizard/articles/standardize_data.html</loc>
   </url>
   <url>
@@ -41,6 +44,9 @@
   </url>
   <url>
     <loc>https://easystats.github.io/datawizard/reference/center.html</loc>
+  </url>
+  <url>
+    <loc>https://easystats.github.io/datawizard/reference/coef_var.html</loc>
   </url>
   <url>
     <loc>https://easystats.github.io/datawizard/reference/coerce_to_numeric.html</loc>
@@ -73,6 +79,9 @@
     <loc>https://easystats.github.io/datawizard/reference/data_partition.html</loc>
   </url>
   <url>
+    <loc>https://easystats.github.io/datawizard/reference/data_peek.html</loc>
+  </url>
+  <url>
     <loc>https://easystats.github.io/datawizard/reference/data_read.html</loc>
   </url>
   <url>
@@ -95,6 +104,9 @@
   </url>
   <url>
     <loc>https://easystats.github.io/datawizard/reference/data_to_wide.html</loc>
+  </url>
+  <url>
+    <loc>https://easystats.github.io/datawizard/reference/datawizard-package.html</loc>
   </url>
   <url>
     <loc>https://easystats.github.io/datawizard/reference/demean.html</loc>
